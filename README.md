@@ -33,22 +33,12 @@
 <p align="left">
 <!-- Android Ecosystem -->
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
-<a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
 <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="Realm DB" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
 <a href="https://developer.android.com/jetpack/androidx/releases/room" target="_blank"><img src="https://raw.githubusercontent.com/mrwolfedev/assets/main/room-db-logo.png" alt="Room DB" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
 <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://raw.githubusercontent.com/mrwolfedev/assets/main/jetpack-compose-logo.png" alt="Jetpack Compose" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
 <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin Multiplatform" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
 
-<!-- System Programming -->
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
-<a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt6" width="50" height="50" style="border:2px solid #00fff7; border-radius:8px; padding:5px;"/></a>
-
-<!-- Python Ecosystem -->
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border:2px solid #39ff14; border-radius:8px; padding:5px;"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50" style="border:2px solid #39ff14; border-radius:8px; padding:5px;"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" style="border:2px solid #39ff14; border-radius:8px; padding:5px;"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="50" style="border:2px solid #39ff14; border-radius:8px; padding:5px;"/></a>
 
 <!-- Databases & Tools -->
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="border:2px solid #39ff14; border-radius:8px; padding:5px;"/></a>
